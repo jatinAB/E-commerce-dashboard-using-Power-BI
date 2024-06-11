@@ -1,1 +1,1 @@
-# E-commerce-dashboard-using-Power-BI
+E-commerce data analysis using Power BI involves visualizing and analyzing sales, customer behavior, and product performance data to gain actionable insights. By creating interactive dashboards and reports, businesses can track key metrics, identify trends, and make data-driven decisions to optimize their operations and boost sales.
